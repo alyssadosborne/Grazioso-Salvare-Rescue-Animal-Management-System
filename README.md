@@ -24,7 +24,9 @@ Requires a Java Development Kit (JDK). From the repository root, compile the sou
 javac -d out grazioso/RescueAnimal.java grazioso/Dog.java grazioso/Monkey.java grazioso/Driver.java
 
   Run the program:
-java -cp out grazioso.Driver
+javac -d . *.java
+java grazioso.Driver
+
 Menu
 Rescue Animal System Menu
 [1] Intake a new dog
