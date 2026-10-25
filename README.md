@@ -48,6 +48,6 @@ Possible improvements
 - Expand validation of dates, numeric fields, and reservation input.
 - Introduce automated tests for animal intake and reservation rules.
 - Add a graphical user interface.
-- 
+
 Author:
 Alyssa Osborne
